@@ -1,5 +1,15 @@
 # gans.tensorflow.slim
 
+## Requirements
+
+* `TensorFlow` 1.4.1
+* not yet above 1.5.0 (will be updated soon)
+* `numpy` and `matplotlib`
+* I use `FLAGS = tf.app.flags.FLAGS` and `tf.train.Supervisor`
+  * These `API` does not support in above 1.5.0 TF version
+  * will be updated soon
+
+
 ## Generative Adversarial Networks
 
 * `gan.ipynb`
