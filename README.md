@@ -59,3 +59,5 @@ Generative Adversarial Networks paper [arXiv:1511.06434](https://arxiv.org/abs/1
 * BEGAN: Boundary Equilibrium Generative Adversarial Networks [arXiv:1703.10717](https://arxiv.org/abs/1703.10717)
 
 
+### Author
+Il Gu Yi
