@@ -1,8 +1,8 @@
-# mnist folder
-mnist
-
 # related mac files
 .DS_Store
 
 # ipynb files
 .ipynb_checkpoints
+
+# train directory
+train

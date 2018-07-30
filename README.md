@@ -2,17 +2,13 @@
 
 ## Requirements
 
-* `TensorFlow` 1.4.1
-* not yet above 1.5.0 (will be updated soon)
+* `TensorFlow` 1.9.0
 * `numpy` and `matplotlib`
-* I use `FLAGS = tf.app.flags.FLAGS` and `tf.train.Supervisor`
-  * These `API` does not support in above 1.5.0 TF version
-  * will be updated soon
 
 
 ## Generative Adversarial Networks
 
-* `gan.ipynb`
+* [gan.ipynb](https://nbviewer.jupyter.org/github.com/ilguyi/gans.tensorflow.slim/blob/master/gan.ipynb)
 * Original GAN paper [arXiv:1406.2661](https://arxiv.org/abs/1406.2661)
 
 
