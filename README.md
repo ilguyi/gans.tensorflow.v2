@@ -8,20 +8,20 @@
 
 ## Generative Adversarial Networks
 
-* [gan.ipynb](https://nbviewer.jupyter.org/github.com/ilguyi/gans.tensorflow.slim/blob/master/gan.ipynb)
+* [gan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/gans.tensorflow.slim/blob/master/gan.ipynb)
 * Original GAN paper [arXiv:1406.2661](https://arxiv.org/abs/1406.2661)
 
 
 ## Deep Convoluational GAN
 
-* `dcgan.ipynb`
+* [dcgan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/gans.tensorflow.slim/blob/master/dcgan.ipynb)
 * Unsupervised Representation Learning with Deep Convoluational
 Generative Adversarial Networks paper [arXiv:1511.06434](https://arxiv.org/abs/1511.06434)
 
 
 ## Conditional GAN
 
-* `cgan.ipynb`
+* [cgan_based_on_dcgan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/gans.tensorflow.slim/blob/master/cgan_based_on_dcgan.ipynb)
 * Conditional Generative Adversarial Nets [arXiv:1411.1784](https://arxiv.org/abs/1411.1784)
 
 
