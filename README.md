@@ -1,28 +1,43 @@
-# gans.tensorflow.slim
+# Implementation of various GANs with TensorFlow slim
 
-## Requirements
+This repository is a collection of various GAN models.
 
-* `TensorFlow` 1.9.0
-* `numpy` and `matplotlib`
+
+## Getting Started
+
+### Prerequisites
+* `TensorFlow` 1.10.0
+* Python 3.6
+* Python libraries:
+  * `numpy`, `matplotlib`, `PIL`
+* Jupyter notebook
+* OS X and Linux (Not validated on Windows but probably it would work)
 
 
 ## Generative Adversarial Networks
-
-* [gan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/gans.tensorflow.slim/blob/master/gan.ipynb)
 * Original GAN paper [arXiv:1406.2661](https://arxiv.org/abs/1406.2661)
+* [gan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/gans.tensorflow.slim/blob/master/gan.ipynb)
+<div align="center">
+<img src='./results/gan.result.ckpt.149969.jpg'>
+</div>
+
 
 
 ## Deep Convoluational GAN
-
-* [dcgan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/gans.tensorflow.slim/blob/master/dcgan.ipynb)
-* Unsupervised Representation Learning with Deep Convoluational
+* Unsupervised Representation Learning with Deep Convolutional
 Generative Adversarial Networks paper [arXiv:1511.06434](https://arxiv.org/abs/1511.06434)
+* [dcgan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/gans.tensorflow.slim/blob/master/dcgan.ipynb)
+<div align="center">
+<img src='./results/dcgan.result.ckpt.28112.jpg'>
+</div>
 
 
 ## Conditional GAN
-
-* [cgan_based_on_dcgan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/gans.tensorflow.slim/blob/master/cgan_based_on_dcgan.ipynb)
 * Conditional Generative Adversarial Nets [arXiv:1411.1784](https://arxiv.org/abs/1411.1784)
+* [cgan_based_on_dcgan.ipynb](https://nbviewer.jupyter.org/github/ilguyi/gans.tensorflow.slim/blob/master/cgan_based_on_dcgan.ipynb)
+<div align="center">
+<img src='./results/cgan.result.ckpt.18745.jpg'>
+</div>
 
 
 ## InfoGAN
