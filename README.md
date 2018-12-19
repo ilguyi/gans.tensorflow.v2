@@ -1,5 +1,5 @@
 # Implementation of various GANs with TensorFlow version 2.0
-* Final update: 2018.12. 20
+* Final update: 2018. 12. 20
 * All right reserved @ Il Gu Yi 2018
 
 This repository is a collection of various GAN models implemented by TensorFlow version 2.0 style.
