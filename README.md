@@ -1,8 +1,14 @@
 # Implementation of various GANs with TensorFlow version 2.0
-* Final update: 2018. 12. 20
+* Final update: 2019. 05. 17.
 * All right reserved @ Il Gu Yi 2018
 
 This repository is a collection of various GAN models implemented by TensorFlow version 2.0 style.
+
+This repository moves to [ilguyi/generative.models.tensorflow.v2](https://github.com/ilguyi/generative.models.tensorflow.v2)
+that is a collection of various generative models including autoregressive models,
+latent variable models, normalizing flow models as well as GAN.
+You will see more implementations of generative models.
+
 
 
 ## Getting Started
